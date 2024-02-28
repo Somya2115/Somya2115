@@ -1,7 +1,6 @@
 <a href="https://rohanhbtu.github.io/"><img src="LinkedIn banner.png"/></a>
 <h1 align="center">Hi 👋 I'm  Somya Agarwal</h1>
 <h3 align="center">Aspiring Data Scientist</h3>
-<br>
 <h3 align="center">Connect with me:</h3>
 <!---<br>--->
 <p align="center">
@@ -35,12 +34,14 @@
 <p align="center">
 <h3 align="center">Languages and Tools:</h3>
 <p align="center">
-<img align="center" src="https://skillicons.dev/icons?i=py,c,mongodb,mysql,fastapi,tensorflow,pytorch,html,css,git,netlify,linux,vscode,docker,bash,githubactions&perline=4" alt="python"/>
+<img align="center" src="https://skillicons.dev/icons?i=py,c,mongodb,mysql,fastapi,tensorflow,pytorch,html,css,git,githubactions&perline=4" alt="python"/>
 <br><br>
 <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> &nbsp;&nbsp;
-<img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="50" height="50"/>&nbsp;&nbsp;
+<img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="50" height="50"/>&nbsp;
+<img src="https://upload.wikimedia.org/wikipedia/commons/7/73/Microsoft_Excel_2013-2019_logo.svg" alt="excel" width="50" height="50"/>&nbsp;
+<img src="https://upload.wikimedia.org/wikipedia/commons/6/61/Power-BI-logo-300x79.png" alt="PowerBI" width="50" height="50"/>&nbsp;
 <img src="https://opencv.org/wp-content/uploads/2020/07/OpenCV_logo_no_text_.png" alt="opencv" width="40" height="40"/>&nbsp;&nbsp;
-<img src="https://camo.githubusercontent.com/0af679e0f4bfdd38ebbf1065bfe04f8f4e23cafff24df48b9883bbbb9413ff08/687474703a2f2f726172652d746563686e6f6c6f676965732e636f6d2f77702d636f6e74656e742f75706c6f6164732f323031362f30322f726172655f696d6167655f6f6e6c792e706e67" alt="gensim" width="40" height="40"/>
+<img src="<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/88/SpaCy_logo.svg/2560px-SpaCy_logo.svg.png" alt="spacy" width="100" height="40"/>" alt="Rstudio" width="40" height="40"/>
 <br>
 <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/88/SpaCy_logo.svg/2560px-SpaCy_logo.svg.png" alt="spacy" width="100" height="40"/>
 <br><br>
