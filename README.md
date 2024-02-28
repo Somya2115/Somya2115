@@ -1,4 +1,4 @@
-<a href="https://www.linkedin.com/in/somya2/overlay/background-image/"><img src="LinkedIn banner.png"/></a>
+<a href="https://rohanhbtu.github.io/"><img src="LinkedIn banner.png"/></a>
 <h1 align="center">Hi 👋 I'm  Somya Agarwal</h1>
 <h3 align="center">Aspiring Data Scientist</h3>
 <br>
@@ -15,14 +15,10 @@
 &nbsp;
 <a href="mailto:agarwalsomya6722@gmail.com"><img align="center" src="https://downloadr2.apkmirror.com/wp-content/uploads/2020/10/Gmail_round.png" alt="@rohank587" height="55" width="45" /></a>
 &nbsp;
-&nbsp;
-
-</p>
-<br>
 <br>
 <h3 align="left">About me:</h3>
 
-- 👋 Hi, **I’m Somya Agarwal **<br>
+- 👋 Hi, **I’m Somya Agarwal**<br>
 
 - ⚡ **I’m interested in Data Science,Data Analysis and ML.**<br>
 
@@ -39,7 +35,7 @@
 <p align="center">
 <h3 align="center">Languages and Tools:</h3>
 <p align="center">
-<img align="center" src="https://skillicons.dev/icons?i=py,c,cpp,mongodb,mysql,heroku,flask,fastapi,tensorflow,pytorch,cmake,html,css,git,netlify,linux,vscode,docker,bash,githubactions&perline=4" alt="python"/>
+<img align="center" src="https://skillicons.dev/icons?i=py,c,mongodb,mysql,fastapi,tensorflow,pytorch,html,css,git,netlify,linux,vscode,docker,bash,githubactions&perline=4" alt="python"/>
 <br><br>
 <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> &nbsp;&nbsp;
 <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="50" height="50"/>&nbsp;&nbsp;
@@ -49,9 +45,6 @@
 <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/88/SpaCy_logo.svg/2560px-SpaCy_logo.svg.png" alt="spacy" width="100" height="40"/>
 <br><br>
 <br>
-
---->
-
 
 <!---
 RohanHBTU/RohanHBTU is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
