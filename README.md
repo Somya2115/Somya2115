@@ -1,4 +1,4 @@
-<a href="https://www.linkedin.com/in/somya2/"><img src="https://www.canva.com/design/DAF-FWRMv1Y/jGRF-gJh1jdbyHDILQUWwQ/view?utm_content=DAF-FWRMv1Y&utm_campaign=designshare&utm_medium=link&utm_source=editor"/></a>
+view?utm_content=DAF-FWRMv1Y&utm_campaign=designshare&utm_medium=link&utm_source=editor"/></a>
 <h1 align="center">Hi 👋 I'm  Somya Agarwal</h1>
 <h3 align="center">Aspiring Data Scientist</h3>
 <h3 align="center">Connect with me:</h3>
@@ -45,10 +45,10 @@
 &nbsp;
 <img src="https://upload.wikimedia.org/wikipedia/commons/6/61/Power-BI-logo-300x79.png" alt="PowerBI" width="50" height="50"/>
 &nbsp;
-<img src="https://opencv.org/wp-content/uploads/2020/07/OpenCV_logo_no_text_.png" alt="opencv" width="40" height="40"/>
+<img src="https://opencv.org/wp-content/uploads/2020/07/OpenCV_logo_no_text_.png" alt="opencv" width="40" height="40"/><br>
 &nbsp;
 &nbsp;
-<img src="<img src="https://upload.wikimedia.org/wikipedia/commons/c/c1/Rlogo.png" alt="spacy" width="100" height="40"/>" alt="Rstudio" width="40" height="40"/>
+<img src="https://upload.wikimedia.org/wikipedia/commons/c/c1/Rlogo.png" alt="R" width="100" height="40"/>
 <br>
 <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/88/SpaCy_logo.svg/2560px-SpaCy_logo.svg.png" alt="spacy" width="100" height="40"/>
 <br><br>
