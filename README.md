@@ -1,23 +1,17 @@
-🚀 Hey there! 
-👋 I'm a Master's student diving into the world of Data Science, passionate about transforming raw data into meaningful insights. 
-💻 On a mission to unravel the secrets hidden in the numbers.
-📊 Whether it's crafting algorithms or exploring the vast data universe, I'm all in! 
-🌌 Excited to connect with fellow data enthusiasts and collaborate on turning ideas into impactful solutions. 
-Let's code, learn, and create together! 🤖✨ #DataScienceExplorer #MScDataScience #CodeDreamer 🚀
-<a href="https://rohanhbtu.github.io/"><img src="LinkedIn banner.png"/></a>
+
 <h1 align="center">Hi 👋 I'm  Somya Agarwal</h1>
 <h3 align="center">Aspiring Data Scientist</h3>
 <br>
 <h3 align="center">Connect with me:</h3>
 <!---<br>--->
 <p align="center">
-<a href="https://dev.to/rohanhbtu" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="somya" height="40" width="40" /></a>
+<a href="https://medium.com/@agarwal1001poonam" target="blank"><img align="center" src="https://images.app.goo.gl/x5fzZoGMUXL1" alt="somya" height="40" width="40" /></a>
 &nbsp;
 <a href="https://www.linkedin.com/in/somya2/" target="blank"><img align="center" src="https://skillicons.dev/icons?i=linkedin" alt="rohan-kumar-singh" height="40" width="40" /></a>
 &nbsp;
 <a href="https://www.kaggle.com/somya2115" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="somya" height="30" width="40" /></a>
 &nbsp;
-<a href="mailto:agarwalsomya6722@gmail.com"><img align="center" src="https://downloadr2.apkmirror.com/wp-content/uploads/2020/10/Gmail_round.png" alt="@rohank587" height="45" width="45" /></a>
+<a href="mailto:agarwalsomya6722@gmail.com"><img align="center" src="https://downloadr2.apkmirror.com/wp-content/uploads/2020/10/Gmail_round.png" alt="@rohank587" height="55" width="45" /></a>
 &nbsp;
 &nbsp;
 
@@ -53,15 +47,7 @@ Let's code, learn, and create together! 🤖✨ #DataScienceExplorer #MScDataSci
 <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/88/SpaCy_logo.svg/2560px-SpaCy_logo.svg.png" alt="spacy" width="100" height="40"/>
 <br><br>
 <br>
-<img align="center" src="https://github.com/Somya2115?tab=repositories" alt="RohaHBTU" />
-<br><br>
-<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=RohanHBTU&theme=dracula" alt="RohanHBTU" />
-</p>
 
-
-</p></center>
-<!---
-<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RohanHBTU&theme=dracula&layout=compact" alt="RohaHBTU" />
 --->
 
 
@@ -69,9 +55,3 @@ Let's code, learn, and create together! 🤖✨ #DataScienceExplorer #MScDataSci
 RohanHBTU/RohanHBTU is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
-
-
-
-
-
-
