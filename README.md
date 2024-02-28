@@ -1,4 +1,4 @@
-<a href="https://rohanhbtu.github.io/"><img src="LinkedIn banner.png"/></a>
+<a href="https://www.linkedin.com/in/somya2/"><img src="https://www.canva.com/design/DAF-FWRMv1Y/jGRF-gJh1jdbyHDILQUWwQ/view?utm_content=DAF-FWRMv1Y&utm_campaign=designshare&utm_medium=link&utm_source=editor"/></a>
 <h1 align="center">Hi 👋 I'm  Somya Agarwal</h1>
 <h3 align="center">Aspiring Data Scientist</h3>
 <h3 align="center">Connect with me:</h3>
@@ -37,11 +37,18 @@
 <img align="center" src="https://skillicons.dev/icons?i=py,c,mongodb,mysql,fastapi,tensorflow,pytorch,html,css,git,githubactions&perline=4" alt="python"/>
 <br><br>
 <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> &nbsp;&nbsp;
-<img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="50" height="50"/>&nbsp;
-<img src="https://upload.wikimedia.org/wikipedia/commons/7/73/Microsoft_Excel_2013-2019_logo.svg" alt="excel" width="50" height="50"/>&nbsp;
-<img src="https://upload.wikimedia.org/wikipedia/commons/6/61/Power-BI-logo-300x79.png" alt="PowerBI" width="50" height="50"/>&nbsp;
-<img src="https://opencv.org/wp-content/uploads/2020/07/OpenCV_logo_no_text_.png" alt="opencv" width="40" height="40"/>&nbsp;&nbsp;
-<img src="<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/88/SpaCy_logo.svg/2560px-SpaCy_logo.svg.png" alt="spacy" width="100" height="40"/>" alt="Rstudio" width="40" height="40"/>
+<img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="50" height="50"/>
+&nbsp;
+<img src="https://upload.wikimedia.org/wikipedia/commons/1/1a/NumPy_logo.svg" alt="Numpy" width="50" height="50"/>
+&nbsp;
+<img src="https://upload.wikimedia.org/wikipedia/commons/7/73/Microsoft_Excel_2013-2019_logo.svg" alt="excel" width="50" height="50"/>
+&nbsp;
+<img src="https://upload.wikimedia.org/wikipedia/commons/6/61/Power-BI-logo-300x79.png" alt="PowerBI" width="50" height="50"/>
+&nbsp;
+<img src="https://opencv.org/wp-content/uploads/2020/07/OpenCV_logo_no_text_.png" alt="opencv" width="40" height="40"/>
+&nbsp;
+&nbsp;
+<img src="<img src="https://upload.wikimedia.org/wikipedia/commons/c/c1/Rlogo.png" alt="spacy" width="100" height="40"/>" alt="Rstudio" width="40" height="40"/>
 <br>
 <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/88/SpaCy_logo.svg/2560px-SpaCy_logo.svg.png" alt="spacy" width="100" height="40"/>
 <br><br>
